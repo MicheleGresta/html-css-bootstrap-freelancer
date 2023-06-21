@@ -1,0 +1,27 @@
+[class*="col"]{
+    border: 1px solid red;
+}
+
+.flex{
+    display: flex;
+}
+
+section{
+    padding: 4rem 0;
+}
+
+footer{
+    padding:2rem 0
+}
+
+.box h3{
+    width: 100%;
+}
+
+.padding-send-button{
+    padding-top: 6rem;
+}
+
+.margin-download-button{
+    margin-top:3rem;margin
+}
